@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1766899678 source:e:\joumana\university\fall 25-26\programming i\bank project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1766899496 e:\joumana\university\fall 25-26\programming i\bank project\banking_logic.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"definitions.h"
+	"helpers.h"
+
+1766901472 e:\joumana\university\fall 25-26\programming i\bank project\definitions.h
+
+1766899431 e:\joumana\university\fall 25-26\programming i\bank project\helpers.h
+
+1766901487 source:e:\joumana\university\fall 25-26\programming i\bank project\banking_logic.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"definitions.h"
+	"helpers.h"
+
+1766899494 source:e:\joumana\university\fall 25-26\programming i\bank project\helpers.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"definitions.h"
+	"helpers.h"
+
